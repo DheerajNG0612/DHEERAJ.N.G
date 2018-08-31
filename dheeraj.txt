@@ -6,4 +6,6 @@ what is a comment?
 it is a programmer readable information ignored by compilers 
 what is <stdio.h>
  This header contains information used by the compiler when compiling calls to standard input/output library
- 
+  day 3
+  
+  what is the use of &?
